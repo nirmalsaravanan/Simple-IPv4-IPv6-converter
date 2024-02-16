@@ -4,6 +4,6 @@
 
 ### Usage
 
-####  install python 
+####  Install python3 & above
 
 #### Run the script:  python main.py
